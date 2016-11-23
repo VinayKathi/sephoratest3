@@ -23,8 +23,8 @@ import com.sephora.test.intranet.SephoraIntranetBaseTest;
 
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
-import com.sephora.core.utils.SoftAssert;
+import org.testng.annotations.BeforeMethod123;
+
 
 
 
